@@ -9,7 +9,7 @@
                 "-g",
                 "-o",
                 "Main",
-                "Main.cpp"
+                "Main.cpp",
             ],
             "group": {
                 "kind": "build",

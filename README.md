@@ -1,2 +1,2 @@
-# C-Chess
+# Cpp-Chess
 Console chess game. Written in C++
